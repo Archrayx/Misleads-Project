@@ -1,0 +1,39 @@
+Changelog
+
+0.0
+  initial Startup
+  Title
+  "Start" Prompts
+0.1
+  More info page
+  Start Debugged
+  color and equipment established
+0.2
+  incorporated comments
+  character stats initiated
+  cleaned up more Info
+0.3
+  Character colors/equipment/name Prompts
+  cleaned Prompts
+0.4
+  added 'Are You Sure?' statements
+  debugged while loops and if statements for:
+    color
+    equipment
+    Name
+    more info
+0.5
+  Added os system command 'cls'
+  added .lower() for input commands to reduce parameter checking on
+    more Info
+    color
+    equipment
+    'ays' statements
+  Added clear command for prompts cleanup after response(not done)
+0.6
+  Cleaned up text for more info
+  *add more info section as separate callable command mod
+  added an else statement for 'n' input of more info
+  changed more info if statements to elif
+  finished Start Menu
+  Made File as Function "start()"
